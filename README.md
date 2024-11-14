@@ -1,1 +1,1 @@
-# EE6405-sentiment-analysis
+# EE6405-sentiment analysis
